@@ -1,4 +1,4 @@
-# Test
+# ComputerShop
 
 http://localhost:8080/computerShop/"названиеТовара"
 
